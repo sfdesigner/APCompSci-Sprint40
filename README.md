@@ -1,2 +1,2 @@
-# APCompSci-Sprint40
-Sample code for Sprint 40: Simplified Assignment Operators
+# APCompSci-Sprint41
+Sample code for Sprint 41: Simplified Assignment Operators
